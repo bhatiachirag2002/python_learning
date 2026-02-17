@@ -1,0 +1,5 @@
+name = input("Enter your name: ").strip()
+salary = int(input("Enter your salary: "))
+bonus = int(input("Enter your bonus: "))
+reimbursement = int(input('Enter your reimbursement: '))
+print(f"Hi {name}, your salary + bonus + reimbursement. Total is: " , salary + bonus + reimbursement)
