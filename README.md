@@ -33,10 +33,18 @@ The first day focused on user interaction, data handling, and multi-condition lo
         *   **Login System**: Nested logic for credential verification and age restriction.
         *   **ATM Simulator**: A robust simulation covering PIN verification, withdrawal limits, and balance management.
 
+### Day 2: Loops, Lists, and Business Logic
+The second day focused on iteration, list manipulation, and data filtering techniques.
+
+#### 🛠️ Exercises:
+1.  **Order Analysis (`day_2_order_analysis.py`)**
+    *   **Loop Control**: Demonstrates `range()` for even numbers and `continue` to skip specific multiples.
+    *   **Data Filtering**: Categorizes orders into High, Processing, or Valid based on value thresholds.
+    *   **List Logic**: Implements an algorithm to find the **Highest** and **Second Highest** values in a collection without built-in sorting functions.
+
 ---
 
 ## ✨ Design Philosophy
 I prefer keeping small code tests in a single file by commenting out previous versions. This allows for a quick reference of my learning progression without cluttering the workspace with many small files.
 
 *Happy Coding!* 🐍
-
