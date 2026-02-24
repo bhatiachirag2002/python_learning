@@ -35,7 +35,7 @@
 # print(f"Total Rev: {rev}")
 
 
-orders = [1200, 450, 8000, 300, 15000, 700, 20000]
+# orders = [1200, 450, 8000, 300, 15000, 700, 20000]
 
 # max_value = orders[0]
 
@@ -44,14 +44,44 @@ orders = [1200, 450, 8000, 300, 15000, 700, 20000]
 #         max_value = order
 # print(max_value)
 
-highest = orders[0]
-second_highest = orders[0]
+# highest = orders[0]
+# second_highest = orders[0]
 
-for order in orders:
-    if order > highest:
-        second_highest = highest
-        highest = order
-    elif order > second_highest and order != highest:
-        second_highest = order
-print (second_highest)
+# for order in orders:
+#     if order > highest:
+#         second_highest = highest
+#         highest = order
+#     elif order > second_highest and order != highest:
+#         second_highest = order
+# print (second_highest)
+
+
+# user_input = int(input("Enter your num: "))
+# i = 1
+
+# while i <= 10:
+#     print(f"{user_input} x {i} = {user_input*i}")
+#     i += 1
+
+# user_input = int(input("Enter your num: "))
+# i = 1
+# if user_input > 0:
+#     while i <= 10:
+#         print(f"{user_input} x {i} = {user_input * i}")
+#         i += 1
+# else:
+#     print('enter valid num')
+
+# for i in range(7):
+#     for j in range(i):
+#         print ("*", end= "")
+#     print()
+
+# for i in range(7, 0, -1):
+#     print ("*" * i)
+   
+
+
+# num = [10, 202, 95, 85]
+# print(*num)
 
