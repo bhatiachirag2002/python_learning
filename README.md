@@ -42,6 +42,15 @@ The second day focused on iteration, list manipulation, and data filtering techn
     *   **Data Filtering**: Categorizes orders into High, Processing, or Valid based on value thresholds.
     *   **List Logic**: Implements an algorithm to find the **Highest** and **Second Highest** values in a collection without built-in sorting functions.
 
+### Day 3: List Transformations and Logic
+The third day focused on advanced list operations, filtering, and manual indexing.
+
+#### 🛠️ Exercises:
+1.  **List Logic (`day_3_list_logic.py`)**
+    *   **Filtering & Transformation**: Implements logic for separating even/odd numbers and removing duplicates.
+    *   **Conditional Counting**: Logic to count elements meeting specific thresholds.
+    *   **Indexing & Reversing**: Demonstrates manual list reversal using `range()` and negative step indexing.
+
 ---
 
 ## ✨ Design Philosophy
